@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bg-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+  font-family: Roboto;
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  border-radius: 15px;
+  padding: 20px;
+  width: 50%;
+}
